@@ -23,7 +23,7 @@ c = 'a'
 d = 'b'
 print(c < d) #true
 print(c > d) #false
-
+#letters are treated alphabetically. c comes before d
 hi = bool('Hi') #True
 emptybool = bool('') #False
 number100 = bool(100) #True
